@@ -1,0 +1,152 @@
+Label name already exsists, Error at line: 8
+Label name already exsists, Error at line: 9
+unidentified input, should be an int, a comma or a +/-, Error at line: 9
+Warning label flag is on during extern or entry, Warning at line: 10
+Invalid input of a label, Error at line: 14
+Invalid input of a label, Error at line: 15
+No space between labels and .extern, Error at line: 16
+Label name already exsists, Error at line: 17
+Max label name is 30
+label must start with a letterInvalid string, Error at line: 24
+Invalid start to string command, must start with commas, Error at line: 25
+Invalid start to string command, must start with commas, Error at line: 26
+Invalid placement of ,, Error at line: 27
+Invalid placement of ,, Error at line: 28
+Invalid placement of ,, Error at line: 29
+data type must end with an int, Error at line: 30
+data type must end with an int, Error at line: 33
+unidentified input, should be an int, a comma or a +/-, Error at line: 34
+unidentified input, should be an int, a comma or a +/-, Error at line: 35
+unidentified input, should be an int, a comma or a +/-, Error at line: 36
+unidentified input, should be an int, a comma or a +/-, Error at line: 37
+There is no space in between the function and the call, Error at line: 44
+Missing a comma, Error at line: 45
+Too many commas or operands, Error at line: 46
+There is no space in between the function and the call, Error at line: 47
+Missing a comma, Error at line: 48
+Too many commas or operands, Error at line: 49
+There is no space in between the function and the call, Error at line: 50
+Missing a comma, Error at line: 51
+Too many commas or operands, Error at line: 52
+There is no space in between the function and the call, Error at line: 53
+Missing a comma, Error at line: 54
+Too many commas or operands, Error at line: 55
+There is no space in between the function and the call, Error at line: 56
+Missing a comma, Error at line: 57
+There is no space in between the function and the call, Error at line: 59
+NOT, CLR, INC, DEC, RED,PRN can only have one operand, Error at line: 60
+There is no space in between the function and the call, Error at line: 61
+NOT, CLR, INC, DEC, RED,PRN can only have one operand, Error at line: 62
+There is no space in between the function and the call, Error at line: 63
+NOT, CLR, INC, DEC, RED,PRN can only have one operand, Error at line: 64
+There is no space in between the function and the call, Error at line: 65
+NOT, CLR, INC, DEC, RED,PRN can only have one operand, Error at line: 66
+There is no space in between the function and the call, Error at line: 67
+Function lacks parenthesses, Error at line: 68
+There is no space in between the function and the call, Error at line: 69
+Function lacks parenthesses, Error at line: 70
+There is no space in between the function and the call, Error at line: 71
+Function lacks parenthesses, Error at line: 72
+There is no space in between the function and the call, Error at line: 73
+NOT, CLR, INC, DEC, RED,PRN can only have one operand, Error at line: 74
+There is no space in between the function and the call, Error at line: 75
+# must be followed by an int, Error at line: 76
+# must be followed by an int, Error at line: 77
+RTS cannot recieve operands, Error at line: 78
+RTS cannot recieve operands, Error at line: 79
+STOP cannot recieve operands, Error at line: 80
+STOP cannot recieve operands, Error at line: 81
+Invalid first operand, Error at line: 85
+Invalid first operand, Error at line: 86
+Invalid first operand, Error at line: 87
+Invalid first operand, Error at line: 88
+Invalid second operand, Error at line: 89
+Invalid second operand, Error at line: 90
+Invalid second operand, Error at line: 91
+Invalid first operand, Error at line: 92
+Invalid second operand, Error at line: 93
+Invalid second operand, Error at line: 94
+Invalid second operand, Error at line: 95
+Invalid second operand, Error at line: 96
+Invalid first operand, Error at line: 98
+Invalid first operand, Error at line: 99
+Invalid first operand, Error at line: 100
+Invalid first operand, Error at line: 101
+Invalid second operand, Error at line: 102
+Invalid second operand, Error at line: 103
+Invalid second operand, Error at line: 104
+Invalid first operand, Error at line: 106
+Invalid first operand, Error at line: 107
+Invalid first operand, Error at line: 108
+Invalid first operand, Error at line: 109
+Invalid second operand, Error at line: 110
+Invalid second operand, Error at line: 111
+Invalid second operand, Error at line: 112
+Invalid first operand, Error at line: 113
+Invalid second operand, Error at line: 114
+Invalid second operand, Error at line: 115
+Invalid second operand, Error at line: 116
+Invalid second operand, Error at line: 117
+Invalid first operand, Error at line: 119
+Invalid first operand, Error at line: 120
+Invalid first operand, Error at line: 121
+Invalid first operand, Error at line: 122
+Invalid second operand, Error at line: 123
+Invalid second operand, Error at line: 124
+Invalid second operand, Error at line: 125
+Invalid first operand, Error at line: 126
+Invalid second operand, Error at line: 127
+Invalid second operand, Error at line: 128
+Invalid second operand, Error at line: 129
+Invalid second operand, Error at line: 130
+LEA does not accept immidiate numbers, Error at line: 132
+LEA does not accept immidiate numbers, Error at line: 133
+LEA does not accept immidiate numbers, Error at line: 134
+LEA does not accept immidiate numbers, Error at line: 135
+LEA does not accept immidiate numbers, Error at line: 136
+Invalid first operand, Error at line: 137
+Invalid first operand, Error at line: 138
+Invalid first operand, Error at line: 139
+LEA does not accept immidiate numbers, Error at line: 140
+Invalid first operand, Error at line: 141
+Invalid first operand, Error at line: 142
+Invalid first operand, Error at line: 143
+LEA does not accept immidiate numbers, Error at line: 144
+LEA does not accept immidiate numbers, Error at line: 145
+LEA does not accept immidiate numbers, Error at line: 146
+LEA does not accept immidiate numbers, Error at line: 147
+Invalid second operand, Error at line: 148
+Invalid first operand, Error at line: 149
+LEA does not accept immidiate numbers, Error at line: 150
+Invalid first operand, Error at line: 152
+Invalid placement of adress #, Error at line: 154
+NOT, CLR, INC, DEC, RED,PRN can only have one operand, Error at line: 155
+Invalid placement of adress #, Error at line: 156
+NOT, CLR, INC, DEC, RED,PRN can only have one operand, Error at line: 157
+Invalid placement of adress #, Error at line: 158
+NOT, CLR, INC, DEC, RED,PRN can only have one operand, Error at line: 159
+Invalid placement of adress #, Error at line: 160
+NOT, CLR, INC, DEC, RED,PRN can only have one operand, Error at line: 161
+Invalid placement of adress #, Error at line: 162
+NOT, CLR, INC, DEC, RED,PRN can only have one operand, Error at line: 163
+Invalid input after 9 function, Error at line: 166
+Invalid input after 10 function, Error at line: 168
+Invalid input after 13 function, Error at line: 170
+invalid prn line, Error at line: 172
+Invalid first operand, Error at line: 175
+Missing a comma, Error at line: 176
+Missing a comma, Error at line: 177
+Missing a comma, Error at line: 178
+Missing a comma, Error at line: 179
+label exceeds the max size of 30, Error at line: 181
+opname doesn't exsist, Error at line 182
+opname doesn't exsist, Error at line 183
+opname doesn't exsist, Error at line 184
+unidentified input, should be an int, a comma or a +/-, Error at line: 186
+unidentified input, should be an int, a comma or a +/-, Error at line: 187
+opname doesn't exsist, Error at line 193
+opname doesn't exsist, Error at line 194
+label exceeds the max size of 30, Error at line: 195
+First pass failed, errors in code.
+First pass failed in errorkelet1
+
